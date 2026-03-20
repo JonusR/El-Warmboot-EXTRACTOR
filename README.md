@@ -86,9 +86,7 @@ devkitARM instalado y configurado
 DEVKITARM Conjunto de variables de entorno
 Git (para clonar el repositorio)
 Clonar y Construir
-# Clone the repository
-git clone https://github.com/sthetix/Warmboot-Extractor.git
-cd Warmboot-Extractor
+https://github.com/JonusR/El-Warmboot-EXTRACTOR/releases/tag/1.0.1
 
 # Build
 make
